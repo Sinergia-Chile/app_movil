@@ -1,5 +1,8 @@
 {
   "name": "sinergia",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "0533c7c7",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }
